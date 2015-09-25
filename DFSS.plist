@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.roadefend.DFSS</string>
 				<key>bundle-version</key>
-				<string>1.2.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>DFSS_Ent_v1.2.0.ipa</string>
+				<string>DFSS_Ent_v1.2.0beta.ipa</string>
 			</dict>
 		</dict>
 	</array>
